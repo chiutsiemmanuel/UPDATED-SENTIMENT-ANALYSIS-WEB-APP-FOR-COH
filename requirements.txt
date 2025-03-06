@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+textblob
+nltk
+wordcloud
+gtts
+scikit-learn
+pdfkit
+text2emotion
+emoji
